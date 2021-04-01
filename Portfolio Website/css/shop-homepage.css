@@ -1,0 +1,32 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 80px;
+  background-color: #454d55;
+}
+.under_Carousel{
+  padding:1ex;
+}
+
+.nav>li{
+  display: inline-block;
+}
+h2{
+  display: inline;
+}
+.list-group{
+  padding-top: 25px;
+}
+.card-body{
+  text-align: left;
+}
+.flex-v-center {
+  display: flex;
+  align-items: center;
+}
+.container{
+  padding-bottom: 10px;
+}
